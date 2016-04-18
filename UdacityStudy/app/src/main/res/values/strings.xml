@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UdacityStudy</string>
+    <string name="main_title">My Nanodegree Apps!</string>
+    <string name="main_menu_streamer">SPOTIFY STREAMER</string>
+    <string name="main_menu_score">SCORES APP</string>
+    <string name="main_menu_library">LIBRARY APP</string>
+    <string name="main_menu_bigger">BUILD IT BIGGER</string>
+    <string name="main_menu_reader">XYA READER</string>
+    <string name="main_menu_ownapp">MY OWN APP</string>
+
+</resources>
